@@ -47,6 +47,5 @@ print(persona.keys())
 
 """ Ejercicio:
     1) Solicitar dos numeros en consola y mostrar la suma.
-
     
 """
